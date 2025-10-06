@@ -73,47 +73,6 @@ Our event management system has two main components:
 </ul>
 
 <br>
-<h1>👥 Our Team</h1>
-Our team consists of:
-
-<ul>
-  <li><strong>Anurag Kumar Singh:</strong>  
-  Connect with Anurag on 
-  <a href="https://www.linkedin.com/in/anuragkumar17/">
-  LinkedIn
-  </a> and 
-  <a href="https://github.com/d17012002">
-  GitHub
-  </a>, or visit his 
-  <a href="https://d17012002.github.io/Protfolio-Sample/">
-  personal website
-  </a>.
-  </li>
-  <li><strong>Devanshu Yadav:</strong>
-  Connect with Devanshu on 
-  <a href="https://www.linkedin.com/in/devanshuyadav16/">
-  LinkedIn
-  </a> and 
-  <a href="https://github.com/devanshuyadav">
-  GitHub
-  </a>, or visit his 
-  <a href="https://devanshuyadav.vercel.app/">
-  personal website
-  </a>.
-  </li>
-  <li><strong>Saksham Gupta:</strong>
-  Connect with Saksham on 
-  <a href="https://www.linkedin.com/in/sakshguptavit/">
-  LinkedIn
-  </a> and 
-  <a href="https://github.com/sakshgupta">
-  GitHub
-  </a>, or visit his 
-  <a href="https://sakshgupta.vercel.app/">
-  personal website
-  </a>.
-  </li>
-</ul>
 <br>
 
 <h1>🙌 Contributions</h1>
